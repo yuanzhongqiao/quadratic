@@ -1,3 +1,6 @@
+# 内置 Python、AI 和 SQL 的现代多人游戏电子表格。
+
+
 ![E2E Tests](https://github.com/quadratichq/quadratic/actions/workflows/test-e2e.yml/badge.svg) ![Python Tests](https://github.com/quadratichq/quadratic/actions/workflows/test-python.yml/badge.svg) ![Unit Tests](https://github.com/quadratichq/quadratic/actions/workflows/test-unit.yml/badge.svg)
 ![Twitter Follow](https://img.shields.io/twitter/follow/QuadraticHQ)
 
